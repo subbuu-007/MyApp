@@ -1,5 +1,5 @@
-youtube_transcript_api
 streamlit
-google_generativeai
 python-dotenv
-pathlib
+youtube-transcript-api
+google-generativeai
+fpdf
